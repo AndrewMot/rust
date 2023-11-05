@@ -1,3 +1,3 @@
 # Rust Practice
 
-Initial version
+Prints a variable

@@ -1,3 +1,4 @@
 fn main() {
-    println!("Helloooowww");
+    let printVar = "Helloooowww"; 
+    println!("{}", printVar);
 }
